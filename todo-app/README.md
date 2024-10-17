@@ -13,7 +13,7 @@ A simple and functional To-Do application built using **Ionic React**. This app 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/todo-app.git
+    git clone https://github.com/oneananda/ionic-apps/todo-app.git
     cd todo-app
     ```
 
