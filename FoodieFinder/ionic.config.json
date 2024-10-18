@@ -1,0 +1,7 @@
+{
+  "name": "FoodieFinder",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
